@@ -8,7 +8,7 @@ django-markdownx==3.0.1
 Markdown==3.2.2
 mock==4.0.2
 mysqlclient==1.4.6
-Pillow==7.1.2
+Pillow==9.0.1
 pytz==2020.1
 six==1.15.0
 soupsieve==2.0.1
